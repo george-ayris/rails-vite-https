@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@vitejs/plugin-basic-ssl": "^1.0.2",
+    "vite": "^5.0.10",
+    "vite-plugin-ruby": "^5.0.0"
+  }
+}
